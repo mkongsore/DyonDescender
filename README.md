@@ -1,4 +1,4 @@
-# BlipFinder
+# DyonDescender
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![arXiv](https://img.shields.io/badge/arXiv-2505.XXXX%20-green.svg)](https://arxiv.org/abs/2505.XXXXX)
 
