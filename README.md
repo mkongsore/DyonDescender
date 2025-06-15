@@ -1,6 +1,6 @@
 # DyonDescender
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2505.XXXX%20-green.svg)](https://arxiv.org/abs/2505.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.XXXX%20-green.svg)](https://arxiv.org/abs/2506.XXXXX)
 
 This GitHub page is the home of DyonDescender; the simple field relaxation code described in [2506.XXXXX](https://arxiv.org/abs/2506.XXXXX) capable of minimizing the action associated with dyon field configurations in the $SU(2)$ Georgi-Glashow model.
 
