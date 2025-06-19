@@ -6,7 +6,7 @@ This GitHub page is the home of DyonDescender; the simple field relaxation code 
 
 ![RingFlux](/dyon_cross_section_R=0.4.png "Cross section of a relaxed Euclidean dyon loop field configuration, showing the associated E and B fields.")
 
-If this pipeline is used in published work, please cite [2506.14867](https://arxiv.org/abs/2505.14867).
+If this pipeline is used in published work, please cite [2506.14867](https://arxiv.org/abs/2506.14867).
 
 ## Contents
 
