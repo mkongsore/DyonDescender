@@ -1,12 +1,12 @@
 # DyonDescender
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![arXiv](https://img.shields.io/badge/arXiv-2506.XXXX%20-green.svg)](https://arxiv.org/abs/2506.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2506.XXXX%20-green.svg)](https://arxiv.org/abs/2506.14867)
 
-This GitHub page is the home of DyonDescender; the simple field relaxation code described in [2506.XXXXX](https://arxiv.org/abs/2506.XXXXX) capable of minimizing the action associated with dyon field configurations in the $SU(2)$ Georgi-Glashow model.
+This GitHub page is the home of DyonDescender; the simple field relaxation code described in [2506.14867](https://arxiv.org/abs/2506.14867) capable of minimizing the action associated with dyon field configurations in the $SU(2)$ Georgi-Glashow model.
 
 ![RingFlux](/dyon_cross_section_R=0.4.png "Cross section of a relaxed Euclidean dyon loop field configuration, showing the associated E and B fields.")
 
-If this pipeline is used in published work, please cite [2506.XXXXX](https://arxiv.org/abs/2505.XXXXX).
+If this pipeline is used in published work, please cite [2506.XXXXX](https://arxiv.org/abs/2505.14867).
 
 ## Contents
 
